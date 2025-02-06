@@ -2,3 +2,4 @@
 <p>Projeto desenvolvido com a finalidade demonstrativa das funcionalidades Map, Filter e Reduce! </p>
 
 <h2>Tecnologias utilizadas:</h2>
+<p>HTML</p>
