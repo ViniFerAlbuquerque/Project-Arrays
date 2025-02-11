@@ -4,3 +4,4 @@
 <h2>Tecnologias utilizadas:</h2>
 <p>HTML</p>
 <p>CSS</p>
+<p>JS</p>
